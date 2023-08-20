@@ -25,4 +25,4 @@ Olá! Eu sou o Danrlei Souza, tenho 28 anos e sou apaixonado por tecnologia, ven
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danrleisnob&theme=transparent&bg_color=000&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true&hide=stars)
 
 ## Minhas Contribuições
-[![Explorer SIPEC/DECIPEX](https://github-readme-stats.vercel.app/api/pin/?username=danrleisnob&repo=explorerspecdecipex&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=000)](https://github.com/danrleisnob/explorersipecdecipex.git)
+[![Explorer SIPEC/DECIPEX]([https://github-readme-stats.vercel.app/api/pin/](https://danrleisnob.github.io/danrleicurriculo/)?username=danrleisnob&repo=explorerspecdecipex&bg_color=ec63a1&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=000)](https://github.com/danrleisnob/explorersipecdecipex.git)
